@@ -1,10 +1,10 @@
-# Cyber Portfolio — Rodgers KIptoo Rono
+# Cyber Portfolio — Rodgers Kiptoo Rono
 
 **Location:** Berlin, Germany  
 **Aspiring:** Junior Cybersecurity / SOC Analyst | Master's in IT Security Management (in progress)
 
 ---
-
+<
 ## About me
 I build and document hands-on security labs (VirtualBox) to practice detection, hardening and defensive response. My portfolio demonstrates practical skills in Linux, network analysis, vulnerability scanning, web security testing and SIEM/incident response.
 
